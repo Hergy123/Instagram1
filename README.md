@@ -1,5 +1,5 @@
 
-# Project 3 - *Instqgram*
+# Project 3 - *Instagram*
 
 **instagram2** is a photo sharing app similar to Instagram but using Parse as its backend.
 
